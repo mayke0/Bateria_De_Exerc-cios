@@ -193,9 +193,9 @@ Sobrescreva o valor de cada propriedade do objeto.
 
 Após sobrescrever, exiba o novo valor de cada uma no console.
 */
-serie.nome = 'seila'
-serie.temporada = 19
-serie.episodios = 200
-serie.emissora = 'globo'
+serie.nome = 'Breaking Bad'
+serie.temporada = 4
+serie.episodios = 46
+serie.emissora = 'AMC'
 
 console.log(serie)  ;
